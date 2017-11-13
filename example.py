@@ -2,6 +2,6 @@
 
 sum = 0;
 for i in range(1,10):
-	print(i)
-	sum = sun+i
-	print(sum)
+	print("Nummer: "+i)
+	sum = sum+i
+	print("Sum: "+sum)
